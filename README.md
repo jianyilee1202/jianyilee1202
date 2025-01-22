@@ -8,6 +8,7 @@ I am a first-year Computer Science (Graphics and Multimedia) student at Universi
 * 🧠  I'm learning C++ program
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I like eating, but I don't like bitter gourd. Seriously, who discovered this?
+* ⏰   Guessing Time: I like 🐼🐯🐤🦄🦋🐳🪸🍀🍁🌸🌻✨🌈☃️🫧🍎🥞🍟🍨🍫🧋🏸🛼🎼🎮
 
 ### Skills
 
