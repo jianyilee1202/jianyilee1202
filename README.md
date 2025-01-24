@@ -5,9 +5,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I am a first-year Computer Science (Graphics and Multimedia) student at Universiti Teknologi Malaysia (UTM). 
 
-* 🌍  I'm based in Malaysia
+* 🎂  02 December 2005
+* 🏫  Study at Universiti Teknologi Malaysia
 * ✉️  You can reach me at [leejianyi@graduate.utm.com](mailto:leejianyi@graduate.utm.com)
-* 🧠  I'm learning C++ program now
+* 🧠  I'm learning C++ program now.
 * ⚡  I like eating, but I don't like bitter gourd. Seriously, who discovered this?
 * ⏰  Guessing Time: I like 🐼🐯🐤🦄🦋🐳🪸🍀🍁🌸🌻✨🌈☃️🫧🍎🥞🍟🍨🍫🧋🏸🛼🎼🎮
 
